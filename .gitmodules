@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cran/LSDinterface
-	shallow = true
-	registered = true
 [submodule "LSDsensitivity"]
 	path = LSDsensitivity
 	url = https://github.com/cran/LSDsensitivity
-	shallow = true
-	registered = true
