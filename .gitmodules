@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LSDinterface"]
-	path = LSDinterface
-	url = https://github.com/cran/LSDinterface
 [submodule "LSDirf"]
 	path = LSDirf
 	url = https://github.com/cran/LSDirf
-[submodule "LSDsensitivity"]
-	path = LSDsensitivity
-	url = https://github.com/cran/LSDsensitivity
