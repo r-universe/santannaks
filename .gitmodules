@@ -8,3 +8,6 @@
 [submodule "LSDirf"]
 	path = LSDirf
 	url = https://github.com/cran/LSDirf
+[submodule "LSDsensitivity"]
+	path = LSDsensitivity
+	url = https://github.com/cran/LSDsensitivity
